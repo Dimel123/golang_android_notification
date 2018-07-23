@@ -124,3 +124,4 @@ func sendNotificationToId(tokenId string, data map[string]string) {
 		fmt.Println(err)
 	}
 }
+
