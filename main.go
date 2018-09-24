@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	serverKey = "AAAAFqXlDXU:APA91bFplMZa7BDBeH80SakqxvOlsuQC7wyf9bGm9s77wTB2f25jlOWpsyTsmFgKbEWLk54zLXIGejSGWF0YqlZ_4NafA35VXOlZi7aGVcz0vJB66x4vj79Y3JsvAJ31oRkJnAjmajA2xWdiwZHQViEc8lz1yCB-5w"
+	serverKey = ""
 )
 
 var NP fcm.NotificationPayload
